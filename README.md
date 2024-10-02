@@ -1,16 +1,23 @@
-## Hi there 👋
+## H# Hello, I'm GLORIA
+https://www.linkedin.com/in/gloria-ndanu-604a71252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-<!--
-**MB-glitch542/MB-glitch542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction - Remove this afterwards]
 
-Here are some ideas to get you started:
+I am an Environmental and Biosystems Engineering undergraduate at the University of Nairobi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+[Provide Objective - Remove this afterwards]]
+
+I am eager to learn some new computer skills.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+computer skills 
+virtual assistant skills
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+
+
